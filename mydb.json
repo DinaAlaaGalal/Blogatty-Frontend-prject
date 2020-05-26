@@ -1,0 +1,70 @@
+{"users": [
+  {
+    "id":1,
+    "username": "dina",
+    "password": "dina123",
+    "email": "d@g.com",
+    "posts": [
+      {
+        "postId":1,
+        "postTitle": "how to learn js in 5 days",
+        "postBody":
+          "s simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled to make a type specimen book. It has survived not only five",
+        "tags": [
+          {
+            "tagName": " New ,exclusive ,sale"
+          }
+        ],
+        "photo": "./post-sm-2.PNG",
+        "postDate": "new Date().toString()"
+      },
+      {
+        "postId":2,
+        "postTitle": "how to learn Php in 5 days",
+        "postBody":
+          "s simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industrys standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled to make a type specimen book It has survived not only five",
+        "tags": [
+          {
+            "tagName": " New ,exclusive"
+          }
+        ],
+        "postDate": "new Date().toString()"
+      }
+    ]
+  },
+  {
+    "id":2,
+    "username": "dina2",
+    "password": "dina12345",
+    "email": "ddd@gcom",
+    "posts": [
+      {
+        "postId":1,
+        "postTitle": "how to learn js in 5 days",
+        "postBody":
+          "s simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industrys standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled to make a type specimen book. It has survived not only five",
+        "tags": [
+          {
+            "tagName": " New , exclusive"
+          }
+        ],
+        "photo": "./post-sm-2.PNG",
+        "postDate": "new Date().toString()"
+      },
+      {
+        "postId":2,
+        "postTitle": "how to learn Php in 5 days",
+        "postBody":
+          "s simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industrys standard dummy text ever since the 1500 when an unknown printer took a galley of type and scrambled to make a type specimen book. It has survived not only five",
+        "tags": [
+          {
+            "tagName": " New"
+          
+          }
+        ],
+        "postDate": "new Date().toString()"
+      }
+    ]
+  }
+]
+}
